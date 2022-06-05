@@ -1,0 +1,1 @@
+web: java -jar target/EmployeeManagementSystem-1.8.0.jar
